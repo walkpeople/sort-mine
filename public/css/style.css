@@ -1,0 +1,11 @@
+#canvas {
+    width: 800px;
+    height: 900px;
+    background: #ddd;
+}
+
+#text-canvas {
+    width: 800px;
+    height: 100px;;
+    background: #ddd;
+}
